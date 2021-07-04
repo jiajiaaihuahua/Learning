@@ -186,7 +186,7 @@ http {
     ```   
 
 ## Nginx进程结构  
-![Nginx进程结构](./process.png "Nginx进程结构")  
+![Nginx进程结构](./process.jpg "Nginx进程结构")  
 
 * Nginx启动进程时，会首先启动Master进程，随后由Master进程启动worker进程，其次还有Cache manager以及Cache loader  
 
